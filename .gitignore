@@ -1,2 +1,6 @@
-google-credentials.json
 .env
+
+# Google Cloud credentials
+google-credentials.json
+*credentials*.json
+*service-account*.json
