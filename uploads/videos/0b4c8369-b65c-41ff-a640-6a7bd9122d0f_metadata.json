@@ -1,0 +1,589 @@
+{
+  "videoId": "0b4c8369-b65c-41ff-a640-6a7bd9122d0f",
+  "userId": "nitabariki123@gmail.com",
+  "userEmail": "nitabariki123@gmail.com",
+  "filename": "my_test_video.mp4.mp4",
+  "gcsPath": "local_storage/nitabariki123@gmail.com/0b4c8369-b65c-41ff-a640-6a7bd9122d0f.mp4",
+  "localPath": "uploads/videos\\0b4c8369-b65c-41ff-a640-6a7bd9122d0f.mp4",
+  "fileSize": 7056775,
+  "fileType": "mp4",
+  "createdAt": "2025-08-22T16:39:03.543734",
+  "status": "uploaded",
+  "duration": 58.866667,
+  "transcript": "John Idris. I love your relationship. You always want to be together. Two guys who aren't afraid to be vulnerable. Just friends, you know? No egos. The kind of relationship where you raise each other up, have each other's backs, put each other first and... where no one else matters. There is no backup. Even if that person is me, Priyanka, who doesn't need the adoration of her co-star, I don't even have slight FOMO. Thanks for watching, and I'll see you next time.",
+  "word_timestamps": [
+    {
+      "word": "John",
+      "start_time": 0.0,
+      "end_time": 0.96,
+      "confidence": 0.8
+    },
+    {
+      "word": "Idris.",
+      "start_time": 0.96,
+      "end_time": 2.0,
+      "confidence": 0.8
+    },
+    {
+      "word": "I",
+      "start_time": 2.8,
+      "end_time": 2.8,
+      "confidence": 0.8
+    },
+    {
+      "word": "love",
+      "start_time": 2.8,
+      "end_time": 3.42,
+      "confidence": 0.8
+    },
+    {
+      "word": "your",
+      "start_time": 3.42,
+      "end_time": 3.8,
+      "confidence": 0.8
+    },
+    {
+      "word": "relationship.",
+      "start_time": 3.8,
+      "end_time": 4.46,
+      "confidence": 0.8
+    },
+    {
+      "word": "You",
+      "start_time": 6.34,
+      "end_time": 6.58,
+      "confidence": 0.8
+    },
+    {
+      "word": "always",
+      "start_time": 6.58,
+      "end_time": 7.76,
+      "confidence": 0.8
+    },
+    {
+      "word": "want",
+      "start_time": 7.76,
+      "end_time": 8.0,
+      "confidence": 0.8
+    },
+    {
+      "word": "to",
+      "start_time": 8.0,
+      "end_time": 8.1,
+      "confidence": 0.8
+    },
+    {
+      "word": "be",
+      "start_time": 8.1,
+      "end_time": 8.24,
+      "confidence": 0.8
+    },
+    {
+      "word": "together.",
+      "start_time": 8.24,
+      "end_time": 8.76,
+      "confidence": 0.8
+    },
+    {
+      "word": "Two",
+      "start_time": 9.3,
+      "end_time": 9.68,
+      "confidence": 0.8
+    },
+    {
+      "word": "guys",
+      "start_time": 9.68,
+      "end_time": 10.14,
+      "confidence": 0.8
+    },
+    {
+      "word": "who",
+      "start_time": 10.14,
+      "end_time": 10.4,
+      "confidence": 0.8
+    },
+    {
+      "word": "aren't",
+      "start_time": 10.4,
+      "end_time": 10.5,
+      "confidence": 0.8
+    },
+    {
+      "word": "afraid",
+      "start_time": 10.5,
+      "end_time": 10.78,
+      "confidence": 0.8
+    },
+    {
+      "word": "to",
+      "start_time": 10.78,
+      "end_time": 11.0,
+      "confidence": 0.8
+    },
+    {
+      "word": "be",
+      "start_time": 11.0,
+      "end_time": 11.12,
+      "confidence": 0.8
+    },
+    {
+      "word": "vulnerable.",
+      "start_time": 11.12,
+      "end_time": 11.74,
+      "confidence": 0.8
+    },
+    {
+      "word": "Just",
+      "start_time": 14.0,
+      "end_time": 14.76,
+      "confidence": 0.8
+    },
+    {
+      "word": "friends,",
+      "start_time": 14.76,
+      "end_time": 15.5,
+      "confidence": 0.8
+    },
+    {
+      "word": "you",
+      "start_time": 15.68,
+      "end_time": 15.86,
+      "confidence": 0.8
+    },
+    {
+      "word": "know?",
+      "start_time": 15.86,
+      "end_time": 16.04,
+      "confidence": 0.8
+    },
+    {
+      "word": "No",
+      "start_time": 18.22,
+      "end_time": 18.979999999999997,
+      "confidence": 0.8
+    },
+    {
+      "word": "egos.",
+      "start_time": 18.979999999999997,
+      "end_time": 19.74,
+      "confidence": 0.8
+    },
+    {
+      "word": "The",
+      "start_time": 21.48,
+      "end_time": 21.66,
+      "confidence": 0.8
+    },
+    {
+      "word": "kind",
+      "start_time": 21.66,
+      "end_time": 21.82,
+      "confidence": 0.8
+    },
+    {
+      "word": "of",
+      "start_time": 21.82,
+      "end_time": 21.94,
+      "confidence": 0.8
+    },
+    {
+      "word": "relationship",
+      "start_time": 21.94,
+      "end_time": 22.34,
+      "confidence": 0.8
+    },
+    {
+      "word": "where",
+      "start_time": 22.34,
+      "end_time": 22.8,
+      "confidence": 0.8
+    },
+    {
+      "word": "you",
+      "start_time": 22.8,
+      "end_time": 23.04,
+      "confidence": 0.8
+    },
+    {
+      "word": "raise",
+      "start_time": 23.04,
+      "end_time": 23.88,
+      "confidence": 0.8
+    },
+    {
+      "word": "each",
+      "start_time": 23.88,
+      "end_time": 24.08,
+      "confidence": 0.8
+    },
+    {
+      "word": "other",
+      "start_time": 24.08,
+      "end_time": 24.24,
+      "confidence": 0.8
+    },
+    {
+      "word": "up,",
+      "start_time": 24.24,
+      "end_time": 24.54,
+      "confidence": 0.8
+    },
+    {
+      "word": "have",
+      "start_time": 24.7,
+      "end_time": 25.36,
+      "confidence": 0.8
+    },
+    {
+      "word": "each",
+      "start_time": 25.36,
+      "end_time": 25.56,
+      "confidence": 0.8
+    },
+    {
+      "word": "other's",
+      "start_time": 25.56,
+      "end_time": 25.88,
+      "confidence": 0.8
+    },
+    {
+      "word": "backs,",
+      "start_time": 25.88,
+      "end_time": 26.18,
+      "confidence": 0.8
+    },
+    {
+      "word": "put",
+      "start_time": 27.18,
+      "end_time": 27.6,
+      "confidence": 0.8
+    },
+    {
+      "word": "each",
+      "start_time": 27.6,
+      "end_time": 27.76,
+      "confidence": 0.8
+    },
+    {
+      "word": "other",
+      "start_time": 27.76,
+      "end_time": 27.94,
+      "confidence": 0.8
+    },
+    {
+      "word": "first",
+      "start_time": 27.94,
+      "end_time": 28.4,
+      "confidence": 0.8
+    },
+    {
+      "word": "and...",
+      "start_time": 28.4,
+      "end_time": 29.3,
+      "confidence": 0.8
+    },
+    {
+      "word": "where",
+      "start_time": 30.0,
+      "end_time": 30.48,
+      "confidence": 0.8
+    },
+    {
+      "word": "no",
+      "start_time": 30.48,
+      "end_time": 30.82,
+      "confidence": 0.8
+    },
+    {
+      "word": "one",
+      "start_time": 30.82,
+      "end_time": 31.04,
+      "confidence": 0.8
+    },
+    {
+      "word": "else",
+      "start_time": 31.04,
+      "end_time": 31.22,
+      "confidence": 0.8
+    },
+    {
+      "word": "matters.",
+      "start_time": 31.22,
+      "end_time": 31.64,
+      "confidence": 0.8
+    },
+    {
+      "word": "There",
+      "start_time": 32.26,
+      "end_time": 32.38,
+      "confidence": 0.8
+    },
+    {
+      "word": "is",
+      "start_time": 32.38,
+      "end_time": 32.52,
+      "confidence": 0.8
+    },
+    {
+      "word": "no",
+      "start_time": 32.52,
+      "end_time": 32.7,
+      "confidence": 0.8
+    },
+    {
+      "word": "backup.",
+      "start_time": 32.7,
+      "end_time": 33.14,
+      "confidence": 0.8
+    },
+    {
+      "word": "Even",
+      "start_time": 34.9,
+      "end_time": 35.14,
+      "confidence": 0.8
+    },
+    {
+      "word": "if",
+      "start_time": 35.14,
+      "end_time": 35.44,
+      "confidence": 0.8
+    },
+    {
+      "word": "that",
+      "start_time": 35.44,
+      "end_time": 35.98,
+      "confidence": 0.8
+    },
+    {
+      "word": "person",
+      "start_time": 35.98,
+      "end_time": 36.24,
+      "confidence": 0.8
+    },
+    {
+      "word": "is",
+      "start_time": 36.24,
+      "end_time": 36.46,
+      "confidence": 0.8
+    },
+    {
+      "word": "me,",
+      "start_time": 36.46,
+      "end_time": 36.72,
+      "confidence": 0.8
+    },
+    {
+      "word": "Priyanka,",
+      "start_time": 37.2,
+      "end_time": 37.44,
+      "confidence": 0.8
+    },
+    {
+      "word": "who",
+      "start_time": 37.8,
+      "end_time": 37.86,
+      "confidence": 0.8
+    },
+    {
+      "word": "doesn't",
+      "start_time": 37.86,
+      "end_time": 38.18,
+      "confidence": 0.8
+    },
+    {
+      "word": "need",
+      "start_time": 38.18,
+      "end_time": 38.34,
+      "confidence": 0.8
+    },
+    {
+      "word": "the",
+      "start_time": 38.34,
+      "end_time": 38.5,
+      "confidence": 0.8
+    },
+    {
+      "word": "adoration",
+      "start_time": 38.5,
+      "end_time": 38.98,
+      "confidence": 0.8
+    },
+    {
+      "word": "of",
+      "start_time": 38.98,
+      "end_time": 39.28,
+      "confidence": 0.8
+    },
+    {
+      "word": "her",
+      "start_time": 39.28,
+      "end_time": 39.42,
+      "confidence": 0.8
+    },
+    {
+      "word": "co",
+      "start_time": 39.42,
+      "end_time": 39.6,
+      "confidence": 0.8
+    },
+    {
+      "word": "-star,",
+      "start_time": 39.6,
+      "end_time": 39.9,
+      "confidence": 0.8
+    },
+    {
+      "word": "I",
+      "start_time": 40.48,
+      "end_time": 40.76,
+      "confidence": 0.8
+    },
+    {
+      "word": "don't",
+      "start_time": 40.76,
+      "end_time": 40.86,
+      "confidence": 0.8
+    },
+    {
+      "word": "even",
+      "start_time": 40.86,
+      "end_time": 41.0,
+      "confidence": 0.8
+    },
+    {
+      "word": "have",
+      "start_time": 41.0,
+      "end_time": 41.22,
+      "confidence": 0.8
+    },
+    {
+      "word": "slight",
+      "start_time": 41.22,
+      "end_time": 41.68,
+      "confidence": 0.8
+    },
+    {
+      "word": "FOMO.",
+      "start_time": 41.68,
+      "end_time": 42.12,
+      "confidence": 0.8
+    },
+    {
+      "word": "Thanks",
+      "start_time": 46.78,
+      "end_time": 48.18,
+      "confidence": 0.8
+    },
+    {
+      "word": "for",
+      "start_time": 48.18,
+      "end_time": 49.12,
+      "confidence": 0.8
+    },
+    {
+      "word": "watching,",
+      "start_time": 49.12,
+      "end_time": 49.3,
+      "confidence": 0.8
+    },
+    {
+      "word": "and",
+      "start_time": 49.3,
+      "end_time": 49.3,
+      "confidence": 0.8
+    },
+    {
+      "word": "I'll",
+      "start_time": 49.3,
+      "end_time": 49.62,
+      "confidence": 0.8
+    },
+    {
+      "word": "see",
+      "start_time": 49.62,
+      "end_time": 49.62,
+      "confidence": 0.8
+    },
+    {
+      "word": "you",
+      "start_time": 49.62,
+      "end_time": 54.18,
+      "confidence": 0.8
+    },
+    {
+      "word": "next",
+      "start_time": 54.18,
+      "end_time": 54.18,
+      "confidence": 0.8
+    },
+    {
+      "word": "time.",
+      "start_time": 54.18,
+      "end_time": 54.18,
+      "confidence": 0.8
+    }
+  ],
+  "visual_tags": [
+    {
+      "tag": "video",
+      "confidence": 0.9,
+      "category": "media"
+    },
+    {
+      "tag": "digital content",
+      "confidence": 0.8,
+      "category": "media"
+    },
+    {
+      "tag": "medium video",
+      "confidence": 0.8,
+      "category": "duration"
+    },
+    {
+      "tag": "low resolution",
+      "confidence": 0.7,
+      "category": "quality"
+    },
+    {
+      "tag": "with audio",
+      "confidence": 0.9,
+      "category": "content"
+    },
+    {
+      "tag": "visual content",
+      "confidence": 0.9,
+      "category": "content"
+    },
+    {
+      "tag": "mov",
+      "confidence": 0.8,
+      "category": "format"
+    }
+  ],
+  "transcribedAt": "2025-08-22T16:39:36.626238",
+  "story": {
+    "storyId": "31a7e9e8-3a0f-47be-8b79-925a627d3d73",
+    "scenes": [
+      {
+        "start": 5.42,
+        "end": 11.42,
+        "caption": "\ud83c\udf1f Marvelous Best Moments Commences",
+        "narration": "Our wonderful best moments begins with pure excitement and joy."
+      },
+      {
+        "start": 13.54,
+        "end": 19.54,
+        "caption": "\u2728 Mesmerizing Best Moments Grows",
+        "narration": "Magical best moments unfolds with amazing energy and happiness."
+      },
+      {
+        "start": 21.67,
+        "end": 27.67,
+        "caption": "\ud83c\udf89 Joyful Best Moments Proceeds",
+        "narration": "Joyful best moments continues with incredible satisfaction and delight."
+      }
+    ]
+  },
+  "storyPrompt": "best moments",
+  "storyGeneratedAt": "2025-08-22T16:40:08.259952"
+}

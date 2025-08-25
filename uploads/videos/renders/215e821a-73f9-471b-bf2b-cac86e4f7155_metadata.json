@@ -1,0 +1,30 @@
+{
+  "renderId": "215e821a-73f9-471b-bf2b-cac86e4f7155",
+  "videoId": "1f010184-7a2b-4df9-a3f6-395980b075a6",
+  "outputPath": "uploads/videos\\renders\\story_215e821a-73f9-471b-bf2b-cac86e4f7155.mp4",
+  "outputUrl": "/renders/story_215e821a-73f9-471b-bf2b-cac86e4f7155.mp4",
+  "scenes": [
+    {
+      "caption": "A Beautiful Connection! \u2728",
+      "end": 9.5,
+      "narration": "Witness the natural, heartwarming bond between John and Idris. Their genuine desire to always be together shines brightly, showcasing a truly special friendship.",
+      "start": 2.5
+    },
+    {
+      "caption": "True Hearts, No Egos! \ud83d\udc96",
+      "end": 20,
+      "narration": "This incredible friendship thrives on authenticity and respect. They're two individuals unafraid to be vulnerable, sharing a pure connection where egos simply have no place.",
+      "start": 13
+    },
+    {
+      "caption": "Always Lifting Each Other Up! \ud83d\ude80",
+      "end": 31.5,
+      "narration": "It\u2019s a powerful bond where they constantly uplift each other, always have each other's backs, and prioritize their friendship above all else. This is unwavering support at its best!",
+      "start": 24.5
+    }
+  ],
+  "transitionDuration": 0.5,
+  "renderedAt": "2025-08-22T18:21:10.327980",
+  "fileSize": 1479634,
+  "storyType": "normal"
+}

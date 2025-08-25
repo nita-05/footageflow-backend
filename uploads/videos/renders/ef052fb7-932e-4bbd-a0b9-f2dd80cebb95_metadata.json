@@ -1,0 +1,30 @@
+{
+  "renderId": "ef052fb7-932e-4bbd-a0b9-f2dd80cebb95",
+  "videoId": "3bb93d1d-7dba-4fbd-9d36-e8667b3525fa",
+  "outputPath": "uploads/videos\\renders\\story_ef052fb7-932e-4bbd-a0b9-f2dd80cebb95.mp4",
+  "outputUrl": "/renders/story_ef052fb7-932e-4bbd-a0b9-f2dd80cebb95.mp4",
+  "scenes": [
+    {
+      "caption": "An Inspiring Connection! \ud83c\udf1f",
+      "end": 7.5,
+      "narration": "Witness the undeniable bond of John and Idris, a friendship so cherished, it leaves us asking, 'How did you do it?' Their desire to always be together shines brightly, a true testament to their profound connection.",
+      "start": 0.5
+    },
+    {
+      "caption": "Uplifting Each Other! \ud83d\ude80",
+      "end": 22,
+      "narration": "This isn't just any friendship; it's a powerful connection where they constantly raise each other up. They stand united, always having each other's backs, fostering growth and shared success.",
+      "start": 16
+    },
+    {
+      "caption": "Loyalty That Lasts! \u2728",
+      "end": 36,
+      "narration": "Their loyalty is absolute and unwavering. In this beautiful friendship, they are for each other first, a bond so strong that nothing else truly matters. It's a heartwarming example of dedicated support.",
+      "start": 30
+    }
+  ],
+  "transitionDuration": 0.5,
+  "renderedAt": "2025-08-22T19:08:24.414846",
+  "fileSize": 1258597,
+  "storyType": "normal"
+}

@@ -1,0 +1,30 @@
+{
+  "renderId": "98c12045-2755-4cd3-ba26-d955de0058ce",
+  "videoId": "0b4c8369-b65c-41ff-a640-6a7bd9122d0f",
+  "outputPath": "uploads/videos\\renders\\story_98c12045-2755-4cd3-ba26-d955de0058ce.mp4",
+  "outputUrl": "/renders/story_98c12045-2755-4cd3-ba26-d955de0058ce.mp4",
+  "scenes": [
+    {
+      "caption": "\ud83c\udf1f Marvelous Best Moments Commences",
+      "end": 11.42,
+      "narration": "Our wonderful best moments begins with pure excitement and joy.",
+      "start": 5.42
+    },
+    {
+      "caption": "\u2728 Mesmerizing Best Moments Grows",
+      "end": 19.54,
+      "narration": "Magical best moments unfolds with amazing energy and happiness.",
+      "start": 13.54
+    },
+    {
+      "caption": "\ud83c\udf89 Joyful Best Moments Proceeds",
+      "end": 27.67,
+      "narration": "Joyful best moments continues with incredible satisfaction and delight.",
+      "start": 21.67
+    }
+  ],
+  "transitionDuration": 0.5,
+  "renderedAt": "2025-08-22T16:40:33.419803",
+  "fileSize": 1170891,
+  "storyType": "normal"
+}

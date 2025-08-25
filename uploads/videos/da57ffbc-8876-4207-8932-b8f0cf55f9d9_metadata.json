@@ -1,0 +1,615 @@
+{
+  "videoId": "da57ffbc-8876-4207-8932-b8f0cf55f9d9",
+  "userId": "nitabariki123@gmail.com",
+  "userEmail": "nitabariki123@gmail.com",
+  "filename": "my_test_video.mp4.mp4",
+  "gcsPath": "local_storage/nitabariki123@gmail.com/da57ffbc-8876-4207-8932-b8f0cf55f9d9.mp4",
+  "localPath": "uploads/videos\\da57ffbc-8876-4207-8932-b8f0cf55f9d9.mp4",
+  "fileSize": 7056775,
+  "fileType": "mp4",
+  "createdAt": "2025-08-25T12:51:31.784766",
+  "status": "uploaded",
+  "duration": 58.866667,
+  "transcript": "John, Idris, I love your relationship. How did you do it? Do it. You always want to be together, two guys who are afraid to be vulnerable, just friends, you know? So, egos, kind of relationship where you raise each other up, have each other's backs, for each other first and for no one else matters there is no backup even if that person is mean Bianca doesn't need the adoration of her co-star I don't even have slight foam",
+  "word_timestamps": [
+    {
+      "word": "John,",
+      "start_time": 0.0,
+      "end_time": 1.12,
+      "confidence": 0.8
+    },
+    {
+      "word": "Idris,",
+      "start_time": 1.74,
+      "end_time": 2.12,
+      "confidence": 0.8
+    },
+    {
+      "word": "I",
+      "start_time": 2.34,
+      "end_time": 2.92,
+      "confidence": 0.8
+    },
+    {
+      "word": "love",
+      "start_time": 2.92,
+      "end_time": 3.62,
+      "confidence": 0.8
+    },
+    {
+      "word": "your",
+      "start_time": 3.62,
+      "end_time": 3.98,
+      "confidence": 0.8
+    },
+    {
+      "word": "relationship.",
+      "start_time": 3.98,
+      "end_time": 4.48,
+      "confidence": 0.8
+    },
+    {
+      "word": "How",
+      "start_time": 4.74,
+      "end_time": 4.78,
+      "confidence": 0.8
+    },
+    {
+      "word": "did",
+      "start_time": 4.78,
+      "end_time": 4.84,
+      "confidence": 0.8
+    },
+    {
+      "word": "you",
+      "start_time": 4.84,
+      "end_time": 5.08,
+      "confidence": 0.8
+    },
+    {
+      "word": "do",
+      "start_time": 5.08,
+      "end_time": 5.32,
+      "confidence": 0.8
+    },
+    {
+      "word": "it?",
+      "start_time": 5.32,
+      "end_time": 5.78,
+      "confidence": 0.8
+    },
+    {
+      "word": "Do",
+      "start_time": 6.6,
+      "end_time": 6.68,
+      "confidence": 0.8
+    },
+    {
+      "word": "it.",
+      "start_time": 6.68,
+      "end_time": 7.02,
+      "confidence": 0.8
+    },
+    {
+      "word": "You",
+      "start_time": 7.16,
+      "end_time": 7.48,
+      "confidence": 0.8
+    },
+    {
+      "word": "always",
+      "start_time": 7.48,
+      "end_time": 7.94,
+      "confidence": 0.8
+    },
+    {
+      "word": "want",
+      "start_time": 7.94,
+      "end_time": 8.12,
+      "confidence": 0.8
+    },
+    {
+      "word": "to",
+      "start_time": 8.12,
+      "end_time": 8.2,
+      "confidence": 0.8
+    },
+    {
+      "word": "be",
+      "start_time": 8.2,
+      "end_time": 8.4,
+      "confidence": 0.8
+    },
+    {
+      "word": "together,",
+      "start_time": 8.4,
+      "end_time": 8.98,
+      "confidence": 0.8
+    },
+    {
+      "word": "two",
+      "start_time": 9.6,
+      "end_time": 9.92,
+      "confidence": 0.8
+    },
+    {
+      "word": "guys",
+      "start_time": 9.92,
+      "end_time": 10.32,
+      "confidence": 0.8
+    },
+    {
+      "word": "who",
+      "start_time": 10.32,
+      "end_time": 10.52,
+      "confidence": 0.8
+    },
+    {
+      "word": "are",
+      "start_time": 10.52,
+      "end_time": 10.6,
+      "confidence": 0.8
+    },
+    {
+      "word": "afraid",
+      "start_time": 10.6,
+      "end_time": 10.82,
+      "confidence": 0.8
+    },
+    {
+      "word": "to",
+      "start_time": 10.82,
+      "end_time": 11.08,
+      "confidence": 0.8
+    },
+    {
+      "word": "be",
+      "start_time": 11.08,
+      "end_time": 11.42,
+      "confidence": 0.8
+    },
+    {
+      "word": "vulnerable,",
+      "start_time": 11.42,
+      "end_time": 12.1,
+      "confidence": 0.8
+    },
+    {
+      "word": "just",
+      "start_time": 12.12,
+      "end_time": 14.78,
+      "confidence": 0.8
+    },
+    {
+      "word": "friends,",
+      "start_time": 14.78,
+      "end_time": 15.78,
+      "confidence": 0.8
+    },
+    {
+      "word": "you",
+      "start_time": 15.94,
+      "end_time": 15.94,
+      "confidence": 0.8
+    },
+    {
+      "word": "know?",
+      "start_time": 15.94,
+      "end_time": 16.3,
+      "confidence": 0.8
+    },
+    {
+      "word": "So,",
+      "start_time": 18.46,
+      "end_time": 19.16,
+      "confidence": 0.8
+    },
+    {
+      "word": "egos,",
+      "start_time": 19.32,
+      "end_time": 19.96,
+      "confidence": 0.8
+    },
+    {
+      "word": "kind",
+      "start_time": 21.66,
+      "end_time": 21.88,
+      "confidence": 0.8
+    },
+    {
+      "word": "of",
+      "start_time": 21.88,
+      "end_time": 22.06,
+      "confidence": 0.8
+    },
+    {
+      "word": "relationship",
+      "start_time": 22.06,
+      "end_time": 22.52,
+      "confidence": 0.8
+    },
+    {
+      "word": "where",
+      "start_time": 22.52,
+      "end_time": 22.98,
+      "confidence": 0.8
+    },
+    {
+      "word": "you",
+      "start_time": 22.98,
+      "end_time": 23.72,
+      "confidence": 0.8
+    },
+    {
+      "word": "raise",
+      "start_time": 23.72,
+      "end_time": 23.94,
+      "confidence": 0.8
+    },
+    {
+      "word": "each",
+      "start_time": 23.94,
+      "end_time": 24.18,
+      "confidence": 0.8
+    },
+    {
+      "word": "other",
+      "start_time": 24.18,
+      "end_time": 24.42,
+      "confidence": 0.8
+    },
+    {
+      "word": "up,",
+      "start_time": 24.42,
+      "end_time": 24.86,
+      "confidence": 0.8
+    },
+    {
+      "word": "have",
+      "start_time": 25.24,
+      "end_time": 25.44,
+      "confidence": 0.8
+    },
+    {
+      "word": "each",
+      "start_time": 25.44,
+      "end_time": 25.6,
+      "confidence": 0.8
+    },
+    {
+      "word": "other's",
+      "start_time": 25.6,
+      "end_time": 26.06,
+      "confidence": 0.8
+    },
+    {
+      "word": "backs,",
+      "start_time": 26.06,
+      "end_time": 26.78,
+      "confidence": 0.8
+    },
+    {
+      "word": "for",
+      "start_time": 26.78,
+      "end_time": 27.68,
+      "confidence": 0.8
+    },
+    {
+      "word": "each",
+      "start_time": 27.68,
+      "end_time": 27.84,
+      "confidence": 0.8
+    },
+    {
+      "word": "other",
+      "start_time": 27.84,
+      "end_time": 28.18,
+      "confidence": 0.8
+    },
+    {
+      "word": "first",
+      "start_time": 28.18,
+      "end_time": 28.64,
+      "confidence": 0.8
+    },
+    {
+      "word": "and",
+      "start_time": 28.64,
+      "end_time": 29.86,
+      "confidence": 0.8
+    },
+    {
+      "word": "for",
+      "start_time": 29.86,
+      "end_time": 30.64,
+      "confidence": 0.8
+    },
+    {
+      "word": "no",
+      "start_time": 30.64,
+      "end_time": 30.98,
+      "confidence": 0.8
+    },
+    {
+      "word": "one",
+      "start_time": 30.98,
+      "end_time": 31.14,
+      "confidence": 0.8
+    },
+    {
+      "word": "else",
+      "start_time": 31.14,
+      "end_time": 31.38,
+      "confidence": 0.8
+    },
+    {
+      "word": "matters",
+      "start_time": 31.38,
+      "end_time": 32.08,
+      "confidence": 0.8
+    },
+    {
+      "word": "there",
+      "start_time": 32.08,
+      "end_time": 32.5,
+      "confidence": 0.8
+    },
+    {
+      "word": "is",
+      "start_time": 32.5,
+      "end_time": 32.62,
+      "confidence": 0.8
+    },
+    {
+      "word": "no",
+      "start_time": 32.62,
+      "end_time": 32.84,
+      "confidence": 0.8
+    },
+    {
+      "word": "backup",
+      "start_time": 32.84,
+      "end_time": 33.54,
+      "confidence": 0.8
+    },
+    {
+      "word": "even",
+      "start_time": 33.54,
+      "end_time": 35.22,
+      "confidence": 0.8
+    },
+    {
+      "word": "if",
+      "start_time": 35.22,
+      "end_time": 35.56,
+      "confidence": 0.8
+    },
+    {
+      "word": "that",
+      "start_time": 35.92,
+      "end_time": 36.14,
+      "confidence": 0.8
+    },
+    {
+      "word": "person",
+      "start_time": 36.14,
+      "end_time": 36.36,
+      "confidence": 0.8
+    },
+    {
+      "word": "is",
+      "start_time": 36.36,
+      "end_time": 36.6,
+      "confidence": 0.8
+    },
+    {
+      "word": "mean",
+      "start_time": 36.6,
+      "end_time": 37.12,
+      "confidence": 0.8
+    },
+    {
+      "word": "Bianca",
+      "start_time": 37.12,
+      "end_time": 37.74,
+      "confidence": 0.8
+    },
+    {
+      "word": "doesn't",
+      "start_time": 37.74,
+      "end_time": 38.24,
+      "confidence": 0.8
+    },
+    {
+      "word": "need",
+      "start_time": 38.24,
+      "end_time": 38.46,
+      "confidence": 0.8
+    },
+    {
+      "word": "the",
+      "start_time": 38.46,
+      "end_time": 38.66,
+      "confidence": 0.8
+    },
+    {
+      "word": "adoration",
+      "start_time": 38.66,
+      "end_time": 39.1,
+      "confidence": 0.8
+    },
+    {
+      "word": "of",
+      "start_time": 39.1,
+      "end_time": 39.36,
+      "confidence": 0.8
+    },
+    {
+      "word": "her",
+      "start_time": 39.36,
+      "end_time": 39.54,
+      "confidence": 0.8
+    },
+    {
+      "word": "co",
+      "start_time": 39.54,
+      "end_time": 39.78,
+      "confidence": 0.8
+    },
+    {
+      "word": "-star",
+      "start_time": 39.78,
+      "end_time": 40.08,
+      "confidence": 0.8
+    },
+    {
+      "word": "I",
+      "start_time": 40.08,
+      "end_time": 40.84,
+      "confidence": 0.8
+    },
+    {
+      "word": "don't",
+      "start_time": 40.84,
+      "end_time": 40.92,
+      "confidence": 0.8
+    },
+    {
+      "word": "even",
+      "start_time": 40.92,
+      "end_time": 41.14,
+      "confidence": 0.8
+    },
+    {
+      "word": "have",
+      "start_time": 41.14,
+      "end_time": 41.52,
+      "confidence": 0.8
+    },
+    {
+      "word": "slight",
+      "start_time": 41.52,
+      "end_time": 41.9,
+      "confidence": 0.8
+    },
+    {
+      "word": "foam",
+      "start_time": 41.9,
+      "end_time": 42.18,
+      "confidence": 0.8
+    }
+  ],
+  "visual_tags": [
+    {
+      "tag": "video",
+      "confidence": 0.9,
+      "category": "media"
+    },
+    {
+      "tag": "digital content",
+      "confidence": 0.8,
+      "category": "media"
+    },
+    {
+      "tag": "medium video",
+      "confidence": 0.8,
+      "category": "duration"
+    },
+    {
+      "tag": "low resolution",
+      "confidence": 0.7,
+      "category": "quality"
+    },
+    {
+      "tag": "with audio",
+      "confidence": 0.9,
+      "category": "content"
+    },
+    {
+      "tag": "visual content",
+      "confidence": 0.9,
+      "category": "content"
+    },
+    {
+      "tag": "mov",
+      "confidence": 0.8,
+      "category": "format"
+    },
+    {
+      "tag": "medium video",
+      "confidence": 0.7,
+      "category": "duration"
+    },
+    {
+      "tag": "standard clip",
+      "confidence": 0.6,
+      "category": "duration"
+    },
+    {
+      "tag": "high quality",
+      "confidence": 0.8,
+      "category": "quality"
+    },
+    {
+      "tag": "professional",
+      "confidence": 0.7,
+      "category": "quality"
+    },
+    {
+      "tag": "modern",
+      "confidence": 0.7,
+      "category": "style"
+    },
+    {
+      "tag": "contemporary",
+      "confidence": 0.7,
+      "category": "style"
+    },
+    {
+      "tag": "engaging",
+      "confidence": 0.7,
+      "category": "content"
+    },
+    {
+      "tag": "interesting",
+      "confidence": 0.7,
+      "category": "content"
+    },
+    {
+      "tag": "memorable",
+      "confidence": 0.6,
+      "category": "content"
+    },
+    {
+      "tag": "visual content",
+      "confidence": 0.8,
+      "category": "media"
+    },
+    {
+      "tag": "digital media",
+      "confidence": 0.8,
+      "category": "media"
+    },
+    {
+      "tag": "multimedia",
+      "confidence": 0.7,
+      "category": "media"
+    },
+    {
+      "tag": "content",
+      "confidence": 0.6,
+      "category": "media"
+    },
+    {
+      "tag": "footage",
+      "confidence": 0.6,
+      "category": "media"
+    },
+    {
+      "tag": "visual",
+      "confidence": 0.6,
+      "category": "media"
+    }
+  ],
+  "transcribedAt": "2025-08-25T12:51:39.567771"
+}

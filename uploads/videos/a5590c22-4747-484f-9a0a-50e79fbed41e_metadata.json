@@ -1,0 +1,127 @@
+{
+  "videoId": "a5590c22-4747-484f-9a0a-50e79fbed41e",
+  "userId": "nitabariki123@gmail.com",
+  "userEmail": "nitabariki123@gmail.com",
+  "filename": "my_test_video.mp4.mp4",
+  "gcsPath": "local_storage/nitabariki123@gmail.com/a5590c22-4747-484f-9a0a-50e79fbed41e.mp4",
+  "localPath": "uploads/videos\\a5590c22-4747-484f-9a0a-50e79fbed41e.mp4",
+  "fileSize": 7056775,
+  "fileType": "mp4",
+  "createdAt": "2025-08-22T19:03:46.548654",
+  "status": "uploaded",
+  "duration": 58.866667,
+  "transcript": null,
+  "word_timestamps": null,
+  "visual_tags": [
+    {
+      "tag": "video",
+      "confidence": 0.9,
+      "category": "media"
+    },
+    {
+      "tag": "digital content",
+      "confidence": 0.8,
+      "category": "media"
+    },
+    {
+      "tag": "medium video",
+      "confidence": 0.8,
+      "category": "duration"
+    },
+    {
+      "tag": "low resolution",
+      "confidence": 0.7,
+      "category": "quality"
+    },
+    {
+      "tag": "with audio",
+      "confidence": 0.9,
+      "category": "content"
+    },
+    {
+      "tag": "visual content",
+      "confidence": 0.9,
+      "category": "content"
+    },
+    {
+      "tag": "mov",
+      "confidence": 0.8,
+      "category": "format"
+    },
+    {
+      "tag": "medium video",
+      "confidence": 0.7,
+      "category": "duration"
+    },
+    {
+      "tag": "standard clip",
+      "confidence": 0.6,
+      "category": "duration"
+    },
+    {
+      "tag": "high quality",
+      "confidence": 0.8,
+      "category": "quality"
+    },
+    {
+      "tag": "professional",
+      "confidence": 0.7,
+      "category": "quality"
+    },
+    {
+      "tag": "modern",
+      "confidence": 0.7,
+      "category": "style"
+    },
+    {
+      "tag": "contemporary",
+      "confidence": 0.7,
+      "category": "style"
+    },
+    {
+      "tag": "engaging",
+      "confidence": 0.7,
+      "category": "content"
+    },
+    {
+      "tag": "interesting",
+      "confidence": 0.7,
+      "category": "content"
+    },
+    {
+      "tag": "memorable",
+      "confidence": 0.6,
+      "category": "content"
+    },
+    {
+      "tag": "visual content",
+      "confidence": 0.8,
+      "category": "media"
+    },
+    {
+      "tag": "digital media",
+      "confidence": 0.8,
+      "category": "media"
+    },
+    {
+      "tag": "multimedia",
+      "confidence": 0.7,
+      "category": "media"
+    },
+    {
+      "tag": "content",
+      "confidence": 0.6,
+      "category": "media"
+    },
+    {
+      "tag": "footage",
+      "confidence": 0.6,
+      "category": "media"
+    },
+    {
+      "tag": "visual",
+      "confidence": 0.6,
+      "category": "media"
+    }
+  ]
+}

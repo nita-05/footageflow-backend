@@ -1,0 +1,36 @@
+{
+  "renderId": "d3258711-fa27-4d30-a073-306746038dd4",
+  "videoId": "4042eea2-b2f1-4f78-9189-7ac8b73c1139",
+  "outputPath": "uploads/videos\\renders\\story_d3258711-fa27-4d30-a073-306746038dd4.mp4",
+  "outputUrl": "/renders/story_d3258711-fa27-4d30-a073-306746038dd4.mp4",
+  "scenes": [
+    {
+      "caption": "Embracing the Task for Friends! \ud83e\udd1d",
+      "end": 12,
+      "narration": "When asked to contribute, a true friend embraces their role, ready to make a positive difference. It's about being there for each other, always, and finding joy in shared tasks.",
+      "start": 7
+    },
+    {
+      "caption": "A Spark of Creative Joy! \u2728",
+      "end": 20.5,
+      "narration": "But a thoughtful friend sees beyond the ordinary, finding inspiration in every detail. A simple task transforms into an exciting opportunity to surprise and delight everyone.",
+      "start": 15.5
+    },
+    {
+      "caption": "Friendship's Creative Triumph! \ud83c\udf89",
+      "end": 29.5,
+      "narration": "And what began as simple cups became a joyous spectacle! A vibrant testament to how friends uplift each other, turning the mundane into magical moments for all to celebrate.",
+      "start": 22.5
+    },
+    {
+      "caption": "Exceeding Expectations Together! \ud83e\uddca",
+      "end": 37.5,
+      "narration": "Beyond just cups, the dedication extends to every detail, ensuring every friend feels special. It's these thoughtful gestures and extra efforts that truly define an amazing friendship.",
+      "start": 32.5
+    }
+  ],
+  "transitionDuration": 0.5,
+  "renderedAt": "2025-08-22T18:31:35.959637",
+  "fileSize": 1314377,
+  "storyType": "normal"
+}

@@ -1,0 +1,30 @@
+{
+  "renderId": "587d8a0f-9eb3-41da-aa2f-8d075510dbe7",
+  "videoId": "38a911a1-93f5-4c71-a019-e933825a95d8",
+  "outputPath": "uploads/videos\\renders\\story_587d8a0f-9eb3-41da-aa2f-8d075510dbe7.mp4",
+  "outputUrl": "/renders/story_587d8a0f-9eb3-41da-aa2f-8d075510dbe7.mp4",
+  "scenes": [
+    {
+      "caption": "A Bright Welcome! \u2728",
+      "end": 6.5,
+      "narration": "From the very first 'hello,' we witness a beautiful moment of connection. Julie bravely introduces herself, inviting us into her world with an open heart and a confident smile, ready to make new friends!",
+      "start": 0.5
+    },
+    {
+      "caption": "Joyful Discoveries! \ud83c\udf1f",
+      "end": 14,
+      "narration": "What a joy it is to share moments of self-discovery! Julie radiates happiness as she tells us about being nine, her vibrant home in South Africa, and her simple, beloved passions \u2013 from delicious treats to playful cats!",
+      "start": 7
+    },
+    {
+      "caption": "Friends Forever! \ud83d\udc96",
+      "end": 19.5,
+      "narration": "The most heartwarming moment comes as Julie extends a hand of friendship. Having shared her delightful world, she optimistically hopes for new connections, promising a future filled with warmth and camaraderie!",
+      "start": 14.5
+    }
+  ],
+  "transitionDuration": 0.5,
+  "renderedAt": "2025-08-25T13:36:50.060321",
+  "fileSize": 1049878,
+  "storyType": "normal"
+}
