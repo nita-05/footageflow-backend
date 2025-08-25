@@ -1,0 +1,30 @@
+{
+  "renderId": "c3a05499-3946-4884-8032-89307334189f",
+  "videoId": "8692be76-91c2-4e10-a82d-ab070e8f9911",
+  "outputPath": "uploads/videos\\renders\\story_c3a05499-3946-4884-8032-89307334189f.mp4",
+  "outputUrl": "/renders/story_c3a05499-3946-4884-8032-89307334189f.mp4",
+  "scenes": [
+    {
+      "caption": "Julie's Friendly Welcome! \ud83d\udc4b",
+      "end": 7.3,
+      "narration": "This captivating moment captures Julie's warm, enthusiastic introduction! From her friendly 'Hello' to sharing her name, it's a delightful invitation into her bright world, full of positive energy.",
+      "start": 1
+    },
+    {
+      "caption": "Vibrant Origins & Yummy Delights! \ud83c\uddff\ud83c\udde6\ud83e\udd5e",
+      "end": 13,
+      "narration": "Discover more about Julie in this joyful moment! She's a cheerful nine-year-old from the beautiful landscapes of South Africa, sharing her immediate delight for tasty pancakes and hot dogs. Pure happiness shines through!",
+      "start": 8
+    },
+    {
+      "caption": "Joyful Hearts & New Friends! \ud83d\udc9b\ud83d\udc08",
+      "end": 19.6,
+      "narration": "Julie continues to enchant, revealing her love for sunny yellow and adorable cats. This beautiful moment culminates in her heartfelt wish for friendship, inspiring us to connect and share in her optimism!",
+      "start": 14
+    }
+  ],
+  "transitionDuration": 0.5,
+  "renderedAt": "2025-08-25T15:37:25.003086",
+  "fileSize": 1002467,
+  "storyType": "normal"
+}
